@@ -1,0 +1,2 @@
+# checadorEscuela
+checador escuela
